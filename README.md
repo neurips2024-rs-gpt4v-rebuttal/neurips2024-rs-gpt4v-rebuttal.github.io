@@ -36,13 +36,13 @@ Compares the accuracy (Pr@0.5) of various models on the DIOR-RSVG dataset, using
 
 **Figure 3:** Instruction: RS-GPT4V-Instruct Test
 
-<img src="images/Instruction_train.png" alt="Instruction Train" width="100%">
-
-**Figure 4:** Instruction: RS-GPT4V-Instruct Train
-
 <img src="images/Response_text.png" alt="Response Test" width="100%">
 
-**Figure 5:** Response: RS-GPT4V-Instruct Test
+**Figure 4:** Response: RS-GPT4V-Instruct Test
+
+<img src="images/Instruction_train.png" alt="Instruction Train" width="100%">
+
+**Figure 5:** Instruction: RS-GPT4V-Instruct Train
 
 <img src="images/Response_train.png" alt="Response Train" width="100%">
 
