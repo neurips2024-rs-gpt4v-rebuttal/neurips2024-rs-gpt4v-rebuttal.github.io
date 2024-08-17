@@ -6,3 +6,8 @@
 <img src="images/Table3.png" alt="Table 1" width="100%">
 <img src="images/Table4.png" alt="Table 1" width="100%">
 <img src="images/Table5.png" alt="Table 1" width="100%">
+
+# 3. Visual Question Answering Task
+<img src="images/Table6.png" alt="Table 1" width="100%">
+<img src="images/Table7.png" alt="Table 1" width="100%">
+<img src="images/Table7.png" alt="Table 1" width="100%">
