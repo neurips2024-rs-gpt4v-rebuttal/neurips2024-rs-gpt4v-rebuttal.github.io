@@ -1,5 +1,11 @@
 # 1. Comprehensive Comparison of Datasets
 <img src="images/Table1.png" alt="Table 1" width="100%">
+[1] RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery
+[2] EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain
+[3] H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model
+[4] LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model
+[5] GeoChat: Grounded Large Vision-Language Model for Remote Sensing
+
 
 # 2. Image Captioning Task
 <img src="images/Table2.png" alt="Table 2" width="100%">
