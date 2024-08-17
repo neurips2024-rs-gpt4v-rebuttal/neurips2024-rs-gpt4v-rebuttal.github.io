@@ -11,3 +11,7 @@
 <img src="images/Table6.png" alt="Table 1" width="100%">
 <img src="images/Table7.png" alt="Table 1" width="100%">
 <img src="images/Table7.png" alt="Table 1" width="100%">
+
+# 4. Visual Grounding Task
+<img src="images/Table9.png" alt="Table 1" width="100%">
+Compares the accuracy (Pr@0.5) of various models on the DIOR-RSVG dataset, using the DIOR dataset split for training and testing.
