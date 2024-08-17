@@ -25,8 +25,27 @@ Compares the accuracy (Pr@0.5) of various models on the DIOR-RSVG dataset, using
 # 5. Free-form Visual Chat
 <img src="images/Figure1.png" alt="Figure 1" width="100%">
 
-Figure 1: GPT-4o scores seven MLLM models for complex reasoning
+**Figure 1**: GPT-4o scores seven MLLM models for complex reasoning
 
 <img src="images/Figure2.png" alt="Figure 2" width="100%">
 
-Figure 2: GPT-4o scores seven MLLM models for detailed description
+**Figure 2**: GPT-4o scores seven MLLM models for detailed description
+
+# 6. Statistics of RS-GPT4V-Instruct Dataset
+<img src="images/Instruction_text.png" alt="Instruction Test" width="100%">
+
+**Figure 3:** Instruction: RS-GPT4V-Instruct Test
+
+<img src="images/Instruction_train.png" alt="Instruction Train" width="100%">
+
+**Figure 4:** Instruction: RS-GPT4V-Instruct Train
+
+<img src="images/Response_text.png" alt="Response Test" width="100%">
+
+**Figure 5:** Response: RS-GPT4V-Instruct Test
+
+<img src="images/Response_train.png" alt="Response Train" width="100%">
+
+**Figure 6:** Response: RS-GPT4V-Instruct Train
+
+
