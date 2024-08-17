@@ -22,7 +22,11 @@
 
 Compares the accuracy (Pr@0.5) of various models on the DIOR-RSVG dataset, using the DIOR dataset split for training and testing.
 
-# 5. Free-form Visual Chat
+# 5. RS-GPT4V-Instruct
+<img src="images/Table10.png" alt="Table 10" width="100%">
+
+
+# 6. Free-form Visual Chat
 <img src="images/Figure1.png" alt="Figure 1" width="100%">
 
 **Figure 1**: GPT-4o scores seven MLLM models for complex reasoning
@@ -31,7 +35,7 @@ Compares the accuracy (Pr@0.5) of various models on the DIOR-RSVG dataset, using
 
 **Figure 2**: GPT-4o scores seven MLLM models for detailed description
 
-# 6. Statistics of RS-GPT4V-Instruct Dataset
+# 7. Statistics of RS-GPT4V-Instruct Dataset
 <img src="images/Instruction_text.png" alt="Instruction Test" width="100%">
 
 **Figure 3:** Instruction: RS-GPT4V-Instruct Test
